@@ -1,0 +1,4 @@
+llama-index
+streamlit
+PyPDF2
+streamlit-pdf-viewer
